@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home-container {
+    background-color: black;
+}
+
+.home {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#img-box {
+    text-align: center;
+}
