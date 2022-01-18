@@ -1,13 +1,7 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.home-container {
-    background-color: black;
-}
-
-.home {
-    color: white;
+    background-color: rgb(10,10,10);
+    color: rgb(200,200,200);
 }
 
 h1 {

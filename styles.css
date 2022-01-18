@@ -4,3 +4,15 @@
     background-color: rgb(10, 10, 10);
     color:rgb(200, 200, 200)
 }
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul {
+    font-size: 20px;
+}
